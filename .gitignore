@@ -1,0 +1,5 @@
+*.zip
+data
+.ipynb_checkpoints
+.mypy_cache
+.venv

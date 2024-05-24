@@ -1,0 +1,8 @@
+jupyterlab
+matplotlib
+more-itertools
+numpy
+pandas
+requests
+scikit-learn
+scipy
